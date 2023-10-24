@@ -1,5 +1,5 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Choosing My Topic Of Music
+##### 10/23/2023
 
 Text
 
