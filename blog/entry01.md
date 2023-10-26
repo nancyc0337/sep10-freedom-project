@@ -32,10 +32,8 @@ When I searched "_technology in music_" in the search engine, there were 3,150,0
 
 The 2nd skill I learned during this process is **Problem Decomposition**. 
 
-When I was choosing my topic, I was a little uncertain of 
-Also when I was writing this blog entry, I broke my task into 6 parts: Content, Sources, Skills, Professionalism, and Summary.   
-
-## Professionalism
+When I was choosing my topic, I was a little uncertain of what 
+Also when I was writing this blog entry, I broke my task into 5 parts: Content, Sources, Engineering Design Process, Skills, and Summary. Then using the rubric, to work on each part. 
 
 ## Summary
 In conclusion, I'm delighted to make my website about using technology in Music to help my target audience. Maybe I will have a future career that involves Music. 
