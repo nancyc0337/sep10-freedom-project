@@ -32,7 +32,7 @@ When I searched "_technology in music_" in the search engine, there were 3,150,0
 
 The 2nd skill I learned during this process is **Problem Decomposition**. 
 
-When I was choosing my topic, I was a little uncertain of what 
+When I was choosing my topic, I was a little uncertain of what topic to choose. So I decided to choose the topic I liked the most and which topic I could do more research on. During my research, I have more links for Music. So I chose Music for my topic. 
 Also when I was writing this blog entry, I broke my task into 5 parts: Content, Sources, Engineering Design Process, Skills, and Summary. Then using the rubric, to work on each part. 
 
 ## Summary
