@@ -16,9 +16,9 @@ The second link I searched was [The Impact of Technology on the Music Industry](
 
 Another link I found was: [6 ways music technology has changed for good](https://www.wiley.com/edge/media/how-technology-has-changed-music/). This link helps me to know technology in music has changed for the better.
 
-## Engineering Design Process (EDP)
+## Engineering Design Process
 
-
+Right now in the Engineering Design Process(EDP), I am on the 1st(Define the problem) and 2nd step(Research the problem). Our 1st step was to choose 3 topics we were most interested in. Then we searched on Google for [tech term: tech, technology] in [topic], [topic] jobs, and day in the life of a [topic job]. I think I'll be on 2nd step to search for a problem and brainstorm solutions.    
 
 ## Skills
 
