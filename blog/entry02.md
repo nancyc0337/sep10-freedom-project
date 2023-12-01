@@ -3,11 +3,13 @@
 
 ## Content: The Information I Gathered About Software & Hardware And How I Gathered It
 
-
+I found 
 
 ## Sources
 
+The first link I searched was [8 Collaborative Music Apps To Make Music With Anyone, Anywhere](https://www.mi.edu/in-the-know/8-collaborative-music-apps-make-music-anyone-anywhere/). This link helps me to know what 8 Music Apps are collaborative.
 
+The second link I searched was [The 5 Pieces Of Kit Every Hardware Musician Needs, According to An Expert](https://mixmag.net/feature/hardware-musician-kit-producer-studio-music-reverb). This link helps me to know what kind of hardware every musician needs.
 
 ## Engineering Design Process
 
