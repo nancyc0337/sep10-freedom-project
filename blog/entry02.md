@@ -21,13 +21,13 @@ Right now in the Engineering Design Process(EDP), I am on the 2nd step(Research 
 
 The 1st skill I learned during this process is **How to Google**. 
 
+When I was researching my topic, I searched **music apps**. But the results led me to a lot of music apps most people have heard of. So I decided to change my words to **music apps/software past** in the search engine. It led me to this website: [8 Collaborative Music Apps To Make Music With Anyone, Anywhere](https://www.mi.edu/in-the-know/8-collaborative-music-apps-make-music-anyone-anywhere/). When I skimmed over it, I saw that this website has the information I need for my project. 
 
+2) Growth mindset
 
-2) 
+The 2nd skill I learned during this process is **Growth mindset**. 
 
-The 2nd skill I learned during this process is ****. 
-
-
+When I was researching my topic, I saw that most of the music apps I researched most people have heard of like YouTube Music, Pandora, Spotify, and more. I feel like I'm getting a little frustrated. So I decided to be a little patient and use the skill **How to Google** and change my words in the search engine. 
 
 ## Summary
 In conclusion, I'm looking forward to the 3rd step of the Engineering Design Process: which is **Brainstorming possible solutions**.
