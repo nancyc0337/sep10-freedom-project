@@ -7,6 +7,11 @@ For Part B,
 
 ## Sources
 
+[Source #1](https://brucef9965.github.io/sep10-freedom-project/)
+
+[Source #2](https://brianw5222.github.io/sep10-freedom-project/#parts)
+
+[Source #3](https://adamk9516.github.io/sep10-freedom-project/#)
 
 ## Engineering Design Process
 
