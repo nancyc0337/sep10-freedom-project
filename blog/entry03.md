@@ -1,7 +1,7 @@
 # Entry 3: Brainstorming Ideas For Music Technologies That Could Be Invented In The Future  
 #### 12/18/2023
 
-## Content: Brainstorming Part B (“Possible Future Music Technologies”)
+## Content: Brainstorming Part B (“Possible Future Music Technologies”) & Finalizing My Freedom Project Content 
 
 ### Part A
 For Part A, we synthesize our notes so we will be ready when we put our notes on our websites. 
