@@ -75,7 +75,30 @@ Picture Link: https://u-static.fotor.com/images/text-to-image/result/PRO-c0963b1
 
 The 1st skill I learned during this process is **Organization**. 
 
-During the process of part A, part B, Freedom Project Content, we organized our notes by using bullet points. 
+During the process of part A, part B and the Freedom Project Content, we organized our notes by using bullet points. Whenever I made a new bullet point, I click `shift` and `8` on my keyboard. Then I click `space` on my keyboard. If I want to make a sub-bullet point, I first make a bullet point, then I click the `tab` on my keyboard.
+
+Outcome (Example):
+
+* My Schedule
+  * Algebra II
+    * Mr. Rubin
+  * BHP (Big History Honors Project)
+    * Ms. Musacchio 
+  * Lunch  
+  * AP World History
+    * Mr. Shapiro  
+  * Spanish
+    * Mr. Galland 
+  * SEP
+    * Mr. Mueller
+  * ELA
+    * Mr. Lewis
+    * Ms. Plumb  
+  * Chemistry
+    * Mr. Wong
+    * Mr. Eldebek  
+  * Yoga
+    * Mr. Morton 
 
 2) Creativity
 
