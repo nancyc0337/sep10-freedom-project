@@ -35,7 +35,7 @@ Right now in the Engineering Design Process(EDP), I am on step 3(Brainstorm poss
 Part B (“Possible Future Music Technologies”):
 1) AI Music Trainer
 
-Picture Link: https://cdn.gencraft.com/prod/user/906de227-536e-4d6f-a281-82fd87db8daa/53c74b67-2006-447f-a184-3f25261522a3/image/image1_0.jpg?Expires=1702692015&Signature=gf6chX7qysGkJ271ApBM4n-umnyIwl-xtX7O7oqJ~qhBjF0AnccsUK2wdMFoDAq-~GvSEMO8VDMkG4-avOZB-gr9j-MGhsvfakHdLQ3eb1SgsMpy63IE3YIzZZD2PxTurl4qBiChXasILbUlom0scW4gGJic2R5HmYL4Kom5lhhApmFwH~XA5UZbYi9ttJq6GWKzSY4z4glwRn6NsnzJ3V7OkWqKB3fDyJUe3UYnt-1yxBEtZjXMbsi0yrS3Tddq4tOrk6FvA174ArKPplBCIaiuu98CZQZmzi8uOMWXxeJvpvkOdsCBoo2HBfbAH7rUIXXBl5UVVLygFo~CZ1yCog__&Key-Pair-Id=K3RDDB1TZ8BHT8
+Picture Link: https://u-static.fotor.com/images/text-to-image/result/PRO-36880ea6305147ddbdde99e35a77453a.jpg
 * Purpose: To teach beginners how to create music
   * The AI Trainer will teach beginners (step-by-step instructions):
     * how to play the instruments:
@@ -108,7 +108,7 @@ For Part B, we have to create ideas of our topic technologies that could be inve
 
 1) AI Music Trainer
 
-Picture Link: https://cdn.gencraft.com/prod/user/906de227-536e-4d6f-a281-82fd87db8daa/53c74b67-2006-447f-a184-3f25261522a3/image/image1_0.jpg?Expires=1702692015&Signature=gf6chX7qysGkJ271ApBM4n-umnyIwl-xtX7O7oqJ~qhBjF0AnccsUK2wdMFoDAq-~GvSEMO8VDMkG4-avOZB-gr9j-MGhsvfakHdLQ3eb1SgsMpy63IE3YIzZZD2PxTurl4qBiChXasILbUlom0scW4gGJic2R5HmYL4Kom5lhhApmFwH~XA5UZbYi9ttJq6GWKzSY4z4glwRn6NsnzJ3V7OkWqKB3fDyJUe3UYnt-1yxBEtZjXMbsi0yrS3Tddq4tOrk6FvA174ArKPplBCIaiuu98CZQZmzi8uOMWXxeJvpvkOdsCBoo2HBfbAH7rUIXXBl5UVVLygFo~CZ1yCog__&Key-Pair-Id=K3RDDB1TZ8BHT8
+Picture Link: https://u-static.fotor.com/images/text-to-image/result/PRO-36880ea6305147ddbdde99e35a77453a.jpg
 * Purpose: To teach beginners how to create music
   * The AI Trainer will teach beginners (step-by-step instructions):
     * how to play the instruments:
