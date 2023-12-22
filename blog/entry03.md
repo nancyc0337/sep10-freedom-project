@@ -75,13 +75,13 @@ Picture Link: https://u-static.fotor.com/images/text-to-image/result/PRO-c0963b1
 
 The 1st skill I learned during this process is **Organization**. 
 
-
+During the process of part A, part B, Freedom Project Content, we organized our notes by using bullet points. 
 
 2) Creativity
 
 The 2nd skill I learned during this process is **Creativity**. 
 
-For Part B, we have to create ideas of our topic technologies that could be invented in the future. I used my creativity to think of 2 music tecnologies that could be invented in the future.
+For Part B, we have to create ideas of our topic technologies that could be invented in the future. I used my creativity to think of 2 music technologies that could be invented in the future.
 
 1) AI Music Trainer
 
@@ -120,7 +120,7 @@ Picture Link: https://u-static.fotor.com/images/text-to-image/result/PRO-c0963b1
   * If you are sad, the watch can provide you with sad music
 
 ## Summary
-In conclusion, I'm ready to put my content on my Freedom Project website. 
+In conclusion, I'm ready to put my content on my Freedom Project website for my next step. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
