@@ -7,6 +7,29 @@ The tool I chose is called Aframe. I chose Aframe because Aframe is a web framew
 
 [Click This Link To See My Tinkering With Aframe](https://jsbin.com/puzonodaso/edit?html,output)
 
+![Tinkering With Aframe](image.png)
+
+Code:
+```html
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="-0.05 0.25 -3" rotation="0 45 0" width="0.85" height="0.85" depth="0.85" color="blue"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+      <a-cylinder position="1 0.75 -3" radius="0.35" height="0.65" color="#FFC65D"></a-cylinder>
+      <a-cylinder position="-1 0.5 -3.5" radius="0.35" height="0.65" color="green"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="6" height="6" color="#ADD8E6"></a-plane>
+      <a-cone position="-1.5 0.2 -2.5" radius="1" height="0.5" color="pink"></a-cone>
+      <a-cone position="1.5 0.2 -2.5" radius="1" height="0.5" color="pink"></a-cone>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
+
 ## Sources
 
 The sources I used to learn Aframe is [aframe.io](https://aframe.io).
