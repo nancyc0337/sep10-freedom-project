@@ -55,6 +55,7 @@ The second skill I learned during this process is **debugging**.
 Tinkering means to play around/mess around with the code, see what happens if I changed part of the code. Tinkering is part of debugging. I tinkered in jsbin to see if Aframe is the right tool for me. I changed colors, added new 3D shapes and changed positions of the 3D shapes.
 
 ## Summary
+In conclusion, I'm ready to learn Aframe to make a 3D virtual reality about my future musical technology on my Freedom Project website for my next step.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
