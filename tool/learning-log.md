@@ -5,7 +5,9 @@ Tool: **Aframe**
 ---
 
 2/26/2024:
-* 
+* Getting Started
+ * [Easily code a virtual reality web experience with A-Frame (WebVR)](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
+
 
 X/X/X:
 * Text
