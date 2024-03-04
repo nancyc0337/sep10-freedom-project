@@ -13,7 +13,8 @@ Link to my Tinkering: [Click Here to See My Tinkering](https://replit.com/@nancy
 
 * Created 3D shapes, change positions and color
   * How do I change the positions?
-      Answer: "Let’s first go over 3D space. A-Frame uses a right-handed coordinate system. With the default camera direction: positive X-axis extends right, positive Y-axis extends up, and the positive Z-axis extends out of the screen towards us:"
+
+Answer: "Let’s first go over 3D space. A-Frame uses a right-handed coordinate system. With the default camera direction: positive X-axis extends right, positive Y-axis extends up, and the positive Z-axis extends out of the screen towards us:"
 
 ![Alt text](image.png)
 
