@@ -78,7 +78,7 @@ requestAnimationFrame(animate);
 ```
 
 * Next Steps:
-  * Learn the component camera [Link](https://aframe.io/docs/1.5.0/components/camera.html)
+  * Learn the component camera [(Link)](https://aframe.io/docs/1.5.0/components/camera.html)
 
 X/X/X:
 * Text
