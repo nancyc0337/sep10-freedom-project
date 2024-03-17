@@ -9,7 +9,7 @@ Tool: **Aframe**
   * [Youtube](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti) + [IDE](cs50.dev) + [Aframe.io](aframe.io)
   * Watched 5-7 minutes of this video: [Easily code a virtual reality web experience with A-Frame (WebVR)](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 
-Link to my Tinkering(Code): []()
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-1/index.html)
 
 * Created 3D shapes, change positions and color
   * How do I change the positions?
@@ -41,13 +41,19 @@ Starter code:
 * Finishing the [video](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 * I tinkered in [cs50.dev](cs50.dev).
 
-Link to my Tinkering(Code): []()
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-2/index.html)
 
 * Next Steps:
   * Learn the component camera [(Link)](https://aframe.io/docs/1.5.0/components/camera.html)
 
 3/17/2024:
-* 
+* Learn the component camera
+  * [Youtube](https://www.youtube.com/watch?v=kygiaSx6kbM) + [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/components/camera.html#)
+
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-3/index.html)
+
+* Next Steps:
+  * Learn [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html)
 
 X/X/X:
 * Text
