@@ -6,10 +6,10 @@ Tool: **Aframe**
 
 2/26/2024:
 * Getting Started
-  * [Youtube](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti) + [Replit](Replit.com) + [Aframe.io](aframe.io)
+  * [Youtube](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti) + [IDE](cs50.dev) + [Aframe.io](aframe.io)
   * Watched 5-7 minutes of this video: [Easily code a virtual reality web experience with A-Frame (WebVR)](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 
-Link to my Tinkering: [Click Here to See My Tinkering](https://replit.com/@nancyc85/tinker#index.html)
+Link to my Tinkering(Code): []()
 
 * Created 3D shapes, change positions and color
   * How do I change the positions?
@@ -41,47 +41,13 @@ Starter code:
 * Finishing the [video](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 * I tinkered in [cs50.dev](cs50.dev).
 
-Code:
-```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/aframe/0.5.0/aframe.js"></script>
-
-<a-scene>
-    <a-sphere></a-sphere>
-    <a-plane width="10" height="10" position="0 0 -2.5" color="black"></a-plane>
-</a-scene>
-
-<script src="index.js"></script>
-
-$ = (queryString) => document.querySelector(queryString);
-
-const shiftHue = (hue) => (hue + 1) % 360;
-
-let hue = 0;
-
-const animate = () => {
-  hue = shiftHue(hue);
-  const color = `hsl(${hue}, 100%, 50%)`;
-  $('a-sphere').setAttribute('color', color);
-
-  const variation = Math.sin(Date.now() / 1000);
-
-  const position = `0 ${1.5 + variation} -2`;
-  $('a-sphere').setAttribute('position', position);
-
-  $('a-plane').setAttribute('rotation', `-90 ${90 * variation} 0`);
-  $('a-plane').setAttribute('color', color);
-
-  requestAnimationFrame(animate);
-};
-
-requestAnimationFrame(animate);
-```
+Link to my Tinkering(Code): []()
 
 * Next Steps:
   * Learn the component camera [(Link)](https://aframe.io/docs/1.5.0/components/camera.html)
 
-X/X/X:
-* Text
+3/17/2024:
+* 
 
 X/X/X:
 * Text
