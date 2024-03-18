@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@9b8609bd84a292ef97bf1e8589401ae0d3201280/dist/aframe-master.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <img id="floor" src="https://as1.ftcdn.net/v2/jpg/03/76/74/78/1000_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg">
+        <img id="average-height" src="family.png">
+      </a-assets>
+
+      <a-plane src="#floor" shader="flat" rotation="-90 0 0" scale="5 5 1">
+      </a-plane>
+
+      <a-cylinder color="orange" radius="0.5" height="2" position="-2 1 0">
+      </a-cylinder>
+
+      <a-box color="pink" height="2" depth="4" position="2 1 0">
+      </a-box>
+
+      <a-image src="#average-height" scale="2 2 1" position="0 1 0">
+      </a-image>
+
+      <a-entity position="0 0 5">
+        <a-camera user-height="1.6"
+                  active="false">
+        </a-camera>
+      </a-entity>
+
+      <a-entity position="0 0 5">
+        <a-camera user-height="0.9"
+                  active="true">
+        </a-camera>
+      </a-entity>
+
+      <a-entity position="0 5 5">
+        <a-camera active="false">
+        </a-camera>
+      </a-entity>
+
+    </a-scene>
+  </body>
+</html>
