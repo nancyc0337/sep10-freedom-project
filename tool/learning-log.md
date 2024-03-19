@@ -60,8 +60,18 @@ After this video, I learned that I can modify and control the a camera primitive
 * Next Steps:
   * Learn [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html)
 
-X/X/X:
-* Text
+3/18/2024 & 3/24/2024:
+* Use more 3D shapes
+  * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
+
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-4/index.html)
+
+Note:
+* rotation="-90 0 0" --> makes the 3D shape horizontal
+* "The background component sets a basic color background of a scene."
+
+3D Shapes I can use in Aframe:
+![alt text](image-2.png)
 
 X/X/X:
 * Text
