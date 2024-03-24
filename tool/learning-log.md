@@ -62,6 +62,8 @@ After this video, I learned that I can modify and control the a camera primitive
   * Learn [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html)
 
 3/18/2024 & 3/24/2024:
+
+3/18/2024
 * Use more 3D shapes
   * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
 
@@ -73,6 +75,16 @@ Note:
 
 3D Shapes I can use in Aframe:
 ![alt text](image-2.png)
+
+3/24/2024
+* Used 3D shape: (`a-box`)
+* Learned to use rotation, position and color animations
+  * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/components/animation.html) + [Youtube](https://youtu.be/JDAdQV4YWRc?si=aFZdYRkCGUEhNHI5)
+
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-5/index.html)
+
+* Next Steps:
+  * Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
 
 X/X/X:
 * Text
