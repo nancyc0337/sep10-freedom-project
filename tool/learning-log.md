@@ -100,6 +100,11 @@ Notes:
 * Make sure that the position and width is correct
 * Make sure that the version of A-Frame is correct
 
+https://youtu.be/9soV6wZsg40?si=U49JdkFyRwu2yJTL
+* Next Steps:
+  * Learn [Basic Lighting](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
+    * [Youtube](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY) + [IDE](cs50.dev) + [Aframe.io-1](https://aframe.io/docs/0.5.0/components/light.html#sidebar) + [Aframe.io-2](https://aframe.io/docs/0.5.0/primitives/a-light.html#sidebar) + [Colorcodes.com](https://htmlcolorcodes.com/)
+
 X/X/X:
 * Text
 
