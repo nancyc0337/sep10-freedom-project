@@ -86,8 +86,19 @@ Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/
 * Next Steps:
   * Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
 
-X/X/X:
-* Text
+3/25/2024:
+* Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
+  * [Youtube](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY) + [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
+
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-6/index.html)
+
+How do I add text?
+
+Answer: "a-text" variable can add text.
+
+Notes:
+* Make sure that the position and width is correct
+* Make sure that the version of A-Frame is correct
 
 X/X/X:
 * Text
