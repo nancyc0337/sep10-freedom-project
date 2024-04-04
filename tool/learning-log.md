@@ -113,7 +113,7 @@ How do you plan to use today and the next 2 days to finish learning your tool?
 
 I can use these resources to learn basic lighting:
 
-1. (https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
+1. (https://youtu.be/9soV6wZsg40?si=KMCDEPRfEaX_oXwR)
 
 2. (https://aframe.io/docs/0.5.0/components/light.html)
 
@@ -171,9 +171,14 @@ A-Frame components that I learned:
 * animations
 * `<a-text>`
 
-4/3/2024:
+4/3/2024: Basic Lighting & Animation
 
+Basic Lighting:
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-7/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-8/index.html)
 
+Animation:
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-9/index.html)
 
 4/4/2024:
 
