@@ -171,6 +171,15 @@ A-Frame components that I learned:
 * animations
 * `<a-text>`
 
+4/3/2024:
+
+
+
+4/4/2024:
+
+
+4/5/2024:
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
