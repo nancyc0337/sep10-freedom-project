@@ -1,18 +1,20 @@
 # Tool Learning Log
 
-Tool: **Aframe**
+### Tool: **Aframe**
 
 ---
 
-2/26/2024:
-* Getting Started
-  * [Youtube](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti) + [IDE](cs50.dev) + [Aframe.io](aframe.io)
+#### 2/26/2024: Getting Started
+
+Getting Started
+* [Youtube](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti) + [IDE](cs50.dev) + [Aframe.io](aframe.io)
   * Watched 5-7 minutes of this video: [Easily code a virtual reality web experience with A-Frame (WebVR)](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-1/index.html)
 
 * Created 3D shapes, change positions and color
-  * How do I change the positions?
+
+Question: How do I change the positions?
 
 Answer: "Let’s first go over 3D space. A-Frame uses a right-handed coordinate system. With the default camera direction: positive X-axis extends right, positive Y-axis extends up, and the positive Z-axis extends out of the screen towards us:"
 
@@ -33,20 +35,20 @@ Starter code:
   </body>
 </html>
 ```
- * Next Steps:
-   * Finish watch the [video](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
-   * Tinkering with more 3D shapes and learn to use [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html), etc.
+Next Steps:
+* Finish watch the [video](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
+* Tinkering with more 3D shapes and learn to use [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html), etc.
 
-3/10/2024:
+#### 3/10/2024: Making A Virtual Reality Web Experience With A-Frame
 * Finishing the [video](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 * I tinkered in [cs50.dev](cs50.dev).
 
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-2/index.html)
 
-* Next Steps:
-  * Learn the component camera [(Link)](https://aframe.io/docs/1.5.0/components/camera.html)
+Next Steps:
+* Learn the component camera [(Click this Link)](https://aframe.io/docs/1.5.0/components/camera.html)
 
-3/17/2024:
+#### 3/17/2024: Learning About The Camera Component
 * Learn the component camera
   * [Youtube](https://www.youtube.com/watch?v=kygiaSx6kbM) + [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/components/camera.html#)
 
@@ -58,12 +60,12 @@ Answer: "When I change it the dimensions of the 3d objects, they extended their 
 
 After this video, I learned that I can modify and control the a camera primitive in a-frame to design my custom scenes, bearing in mind how different heights and viewpoints will create different relationships between the 3d objects and the user and therefore impact their feelings and emotions in different ways.
 
-* Next Steps:
-  * Learn [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html)
+Next Steps:
+* Learn [background](https://aframe.io/docs/1.5.0/components/background.html#properties), [rotation](https://aframe.io/docs/1.5.0/components/rotation.html) and [scale](https://aframe.io/docs/1.5.0/components/scale.html)
 
-3/18/2024 & 3/24/2024:
+### 3/18/2024 & 3/24/2024: Learning About More 3D Shapes
 
-3/18/2024
+#### 3/18/2024: Using More 3D Shapes
 * Use more 3D shapes
   * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
 
@@ -76,17 +78,17 @@ Note:
 3D Shapes I can use in Aframe:
 ![alt text](image-2.png)
 
-3/24/2024
+#### 3/24/2024: Using 3D Shape (Box) & Learned To Use Rotation, Position And Color Animations
 * Used 3D shape: (`a-box`)
 * Learned to use rotation, position and color animations
   * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/components/animation.html) + [Youtube](https://youtu.be/JDAdQV4YWRc?si=aFZdYRkCGUEhNHI5)
 
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-5/index.html)
 
-* Next Steps:
-  * Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
+Next Steps:
+* Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
 
-3/25/2024:
+#### 3/25/2024: Create A Scene And Adding Text
 * Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
   * [Youtube](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY) + [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
 
@@ -94,22 +96,22 @@ Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/
 
 How do I add text?
 
-Answer: "a-text" variable can add text.
+Answer: `a-text` variable can add text.
 
 Notes:
 * Make sure that the position and width is correct
 * Make sure that the version of A-Frame is correct
 
-https://youtu.be/9soV6wZsg40?si=U49JdkFyRwu2yJTL
-* Next Steps:
-  * Learn [Basic Lighting](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
-    * [Youtube](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY) + [IDE](cs50.dev) + [Aframe.io-1](https://aframe.io/docs/0.5.0/components/light.html#sidebar) + [Aframe.io-2](https://aframe.io/docs/0.5.0/primitives/a-light.html#sidebar) + [Colorcodes.com](https://htmlcolorcodes.com/)
+Next Steps:
+* Learn [Basic Lighting](https://youtu.be/9soV6wZsg40?si=cO1au5Jbrs0wbBTY)
+* [Youtube](https://youtu.be/9soV6wZsg40?si=cO1au5Jbrs0wbBTY) + [IDE](cs50.dev) + [Aframe.io-1](https://aframe.io/docs/0.5.0/components/light.html#sidebar) + [Aframe.io-2](https://aframe.io/docs/0.5.0/primitives/a-light.html#sidebar) + [Colorcodes.com](https://htmlcolorcodes.com/)
 
-4/3/2024: Plan--> Final Stretch [Timeline]
+## Plan
+### 4/3/2024: Plan--> Final Stretch [Timeline]
 
-How do you plan to use today and the next 2 days to finish learning your tool?
+Question: How do you plan to use today and the next 2 days to finish learning your tool?
 
-4/3/2024 Wednesday: Basic Lighting & Animation
+#### 4/3/2024 Wednesday: Basic Lighting & Animation
 
 I can use these resources to learn basic lighting:
 
@@ -125,7 +127,7 @@ I can use these resources to learn animation:
 
 5. (https://aframe.io/docs/0.5.0/core/animations.html)
 
-4/4/2024 Thursday: Learning gltf-model & Sound
+#### 4/4/2024 Thursday: Learning gltf-model & Sound
 
 I can use these resources to learn gltf-model:
 
@@ -149,7 +151,7 @@ I can use these resources to learn sound:
 
   4. (https://aframe.io/docs/0.5.0/primitives/a-sound.html)
 
-4/5/2024 Friday: Tinker with What I Learned
+#### 4/5/2024 Friday: Tinker with What I Learned
 
 Taking what I learned --> Making a tinker/experiment of:
 
@@ -171,36 +173,42 @@ A-Frame components that I learned:
 * animations
 * `<a-text>`
 
-4/3/2024: Basic Lighting & Animation
+#### 4/3/2024: Basic Lighting & Animation
 
-Basic Lighting:
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-7/index.html)
+##### Basic Lighting:
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-8/index.html)
+My Tinkering:
 
-What I Learned {From [Aframe.io - Lights](https://aframe.io/docs/1.5.0/components/light.html)}:
+* 1st Link to my Tinkering(Code): [Click Here to See My Tinkering #1](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-7/index.html)
+
+* 2nd Link to my Tinkering(Code): [Click Here to See My Tinkering #2](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-8/index.html)
+
+What I Learned (From [Aframe.io - Lights](https://aframe.io/docs/1.5.0/components/light.html)):
 
 * "The light component defines the entity as a source of light."
 
-![alt text](<Screenshot 2024-04-04 12.14.50 PM.png>)
+![alt text](image-3.png)
 
-![alt text](<Screenshot 2024-04-04 12.23.35 PM.png>)
+![alt text](image-4.png)
 
-![alt text](<Screenshot 2024-04-04 12.26.57 PM.png>)
+![alt text](image-5.png)
 
-![alt text](<Screenshot 2024-04-04 12.30.34 PM.png>)
+![alt text](image-6.png)
 
+![alt text](image-7.png)
 
+![alt text](image-8.png)
 
+![alt text](image-9.png)
 
-Animation:
+##### Animation:
+
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-9/index.html)
 
+#### 4/4/2024:
 
-4/4/2024:
 
-
-4/5/2024:
+#### 4/5/2024:
 
 <!--
 * Links you used today (websites, videos, etc)
