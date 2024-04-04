@@ -105,8 +105,71 @@ https://youtu.be/9soV6wZsg40?si=U49JdkFyRwu2yJTL
   * Learn [Basic Lighting](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
     * [Youtube](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY) + [IDE](cs50.dev) + [Aframe.io-1](https://aframe.io/docs/0.5.0/components/light.html#sidebar) + [Aframe.io-2](https://aframe.io/docs/0.5.0/primitives/a-light.html#sidebar) + [Colorcodes.com](https://htmlcolorcodes.com/)
 
-X/X/X:
-* Text
+4/3/2024: Plan--> Final Stretch [Timeline]
+
+How do you plan to use today and the next 2 days to finish learning your tool?
+
+4/3/2024 Wednesday: Basic Lighting & Animation
+
+I can use these resources to learn basic lighting:
+
+1. (https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
+
+2. (https://aframe.io/docs/0.5.0/components/light.html)
+
+3. (https://aframe.io/docs/0.5.0/primitives/a-light.html)
+
+I can use these resources to learn animation:
+
+4. (https://youtu.be/rl104MfKbW8?si=MZprs9ouGh6T6vSx)
+
+5. (https://aframe.io/docs/0.5.0/core/animations.html)
+
+4/4/2024 Thursday: Learning gltf-model & Sound
+
+I can use these resources to learn gltf-model:
+
+  1. (https://youtu.be/h9uAXlrPUzs?si=A4xvnrSdk5Bw_ud4)
+
+  2. (https://youtu.be/eqiH5_CZDO0?si=0gLFHOUMF4oJicp6)
+
+  3. (https://youtu.be/cS8uGfd_oG8?si=Ibz1Q2tSlkjvZSq7)
+
+  4. (https://aframe.io/docs/0.5.0/components/gltf-model.html)
+
+  5. (https://aframe.io/docs/0.5.0/primitives/a-gltf-model.html)
+
+I can use these resources to learn sound:
+
+  1. (https://youtu.be/JBtBQQ_mKw4?si=6r7s9_eTkMchTcPk)
+
+  2. (https://youtu.be/fGmYp6-Sek8?si=sOJ05RjxFGx4zMOZ)
+
+  3. (https://aframe.io/docs/0.5.0/components/sound.html)
+
+  4. (https://aframe.io/docs/0.5.0/primitives/a-sound.html)
+
+4/5/2024 Friday: Tinker with What I Learned
+
+Taking what I learned --> Making a tinker/experiment of:
+
+* 3D Model of my Music Technology/Basic Scene of Music
+* A scene using A-frame components that I learned
+Use this website as a example: (https://stemkoski.github.io/A-Frame-Examples/)
+
+A-Frame components that I learned:
+
+* basic lighting
+* sound
+* gltf-model
+* camera
+* scale
+* background
+* geometry, 3D-shapes
+* rotation
+* position
+* animations
+* `<a-text>`
 
 <!--
 * Links you used today (websites, videos, etc)
