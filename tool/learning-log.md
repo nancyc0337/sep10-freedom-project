@@ -175,10 +175,27 @@ A-Frame components that I learned:
 
 Basic Lighting:
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-7/index.html)
+
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-8/index.html)
+
+What I Learned {From [Aframe.io - Lights](https://aframe.io/docs/1.5.0/components/light.html)}:
+
+* "The light component defines the entity as a source of light."
+
+![alt text](<Screenshot 2024-04-04 12.14.50 PM.png>)
+
+![alt text](<Screenshot 2024-04-04 12.23.35 PM.png>)
+
+![alt text](<Screenshot 2024-04-04 12.26.57 PM.png>)
+
+![alt text](<Screenshot 2024-04-04 12.30.34 PM.png>)
+
+
+
 
 Animation:
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-9/index.html)
+
 
 4/4/2024:
 
