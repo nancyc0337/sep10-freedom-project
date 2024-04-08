@@ -205,6 +205,11 @@ What I Learned (From [Aframe.io - Lights](https://aframe.io/docs/1.5.0/component
 
 Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-9/index.html)
 
+Code:
+* Reload the link --> the color of the floor will change each time
+* the light on the boxes will change 
+
+
 #### 4/4/2024:
 
 
