@@ -46,12 +46,12 @@ April 18-20:
 April 21-23:
 * edit css & responsive in `Part A` page
 
+April 22-26:
+* use aframe in `Part A` & `Part B` page
+
 April 24-27:
 * edit css & responsive in `Part B` page
 
+#### Beyond MVP
 April 28-30:
 * check for errors/edit any css
-
-#### Beyond MVP
-
-* Task
