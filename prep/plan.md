@@ -22,10 +22,23 @@
 ![alt text](image-15.png)
 
 ## Colors
-* `#ABC123`
+
+![Shades of Blue](https://htmlcolorcodes.com/colors/shades-of-blue/)
+
+* `#000000` --> black
+* `#FFFFFF` --> white
+* `#89CFF0` --> baby blue
+* `#0000FF` --> blue
+* `#0096FF` --> bright blue
+* `#6495ED` --> cornflower blue
+* `#ADD8E6` --> light blue
+* `#A7C7E7` --> pastel blue
+* `#87CEEB` --> sky blue
+* `#0437F2` --> ultramarine 
 
 ## Fonts
-* [Text](URL)
+* [Gasoek One-Heading](https://fonts.google.com/specimen/Gasoek+One?preview.text=I%27m%20the%20best!)
+* [Montserrat-Paragraph](https://fonts.google.com/specimen/Montserrat?preview.text=I%27m%20the%20best!)
 
 ## Timeline
 

@@ -21,7 +21,11 @@ I learned many Aframe components like:
 
 ## Sources
 
+During this time, I used a lot of sources/websites to learn Aframe.
 
+The sources I used to learn Aframe are:
+1) [aframe.io](https://aframe.io).
+2)
 
 ## Engineering Design Process
 
@@ -41,7 +45,7 @@ Resources:
 * Aframe.io
 * cs50.dev
 
-2)
+2) Problem decomposition: breaking a task down into smaller pieces.
 
 The second skill I learned during this process is ****.
 
