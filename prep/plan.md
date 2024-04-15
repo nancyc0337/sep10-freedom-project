@@ -23,7 +23,7 @@
 
 ## Colors
 
-![Shades of Blue](https://htmlcolorcodes.com/colors/shades-of-blue/)
+[Shades of Blue](https://htmlcolorcodes.com/colors/shades-of-blue/)
 
 * `#000000` --> black
 * `#FFFFFF` --> white
@@ -34,7 +34,7 @@
 * `#ADD8E6` --> light blue
 * `#A7C7E7` --> pastel blue
 * `#87CEEB` --> sky blue
-* `#0437F2` --> ultramarine 
+* `#0437F2` --> ultramarine
 
 ## Fonts
 * [Gasoek One-Heading](https://fonts.google.com/specimen/Gasoek+One?preview.text=I%27m%20the%20best!)
