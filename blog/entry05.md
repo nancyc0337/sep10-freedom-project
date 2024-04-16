@@ -151,23 +151,24 @@ Resources:
     * [scale](https://aframe.io/docs/1.5.0/components/scale.html)
   * background
     * [background](https://aframe.io/docs/1.5.0/components/background.html)
-  * geometry, 3D-shapes
+  * geometry
     * [geometry](https://aframe.io/docs/1.5.0/components/geometry.html)
-      * [a-box](https://aframe.io/docs/1.5.0/primitives/a-box.html)
-      * [a-circle](https://aframe.io/docs/1.5.0/primitives/a-circle.html)
-      * [a-cone](https://aframe.io/docs/1.5.0/primitives/a-cone.html)
-      * [a-cylinder](https://aframe.io/docs/1.5.0/primitives/a-cylinder.html)
-      * [a-dodecahedron](https://aframe.io/docs/1.5.0/primitives/a-dodecahedron.html)
-      * [a-icosahedron](https://aframe.io/docs/1.5.0/primitives/a-icosahedron.html)
-      * [a-octahedron](https://aframe.io/docs/1.5.0/primitives/a-octahedron.html)
-      * [a-plane](https://aframe.io/docs/1.5.0/primitives/a-plane.html)
-      * [a-ring](https://aframe.io/docs/1.5.0/primitives/a-ring.html)
-      * [a-sky](https://aframe.io/docs/1.5.0/primitives/a-sky.html)
-      * [a-sphere](https://aframe.io/docs/1.5.0/primitives/a-sphere.html)
-      * [a-tetrahedron](https://aframe.io/docs/1.5.0/primitives/a-tetrahedron.html)
-      * [a-torus-knot](https://aframe.io/docs/1.5.0/primitives/a-torus-knot.html)
-      * [a-torus](https://aframe.io/docs/1.5.0/primitives/a-torus.html)
-      * [a-triangle](https://aframe.io/docs/1.5.0/primitives/a-triangle.html)
+  * 3D-shapes
+    * [a-box](https://aframe.io/docs/1.5.0/primitives/a-box.html)
+    * [a-circle](https://aframe.io/docs/1.5.0/primitives/a-circle.html)
+    * [a-cone](https://aframe.io/docs/1.5.0/primitives/a-cone.html)
+    * [a-cylinder](https://aframe.io/docs/1.5.0/primitives/a-cylinder.html)
+    * [a-dodecahedron](https://aframe.io/docs/1.5.0/primitives/a-dodecahedron.html)
+    * [a-icosahedron](https://aframe.io/docs/1.5.0/primitives/a-icosahedron.html)
+    * [a-octahedron](https://aframe.io/docs/1.5.0/primitives/a-octahedron.html)
+    * [a-plane](https://aframe.io/docs/1.5.0/primitives/a-plane.html)
+    * [a-ring](https://aframe.io/docs/1.5.0/primitives/a-ring.html)
+    * [a-sky](https://aframe.io/docs/1.5.0/primitives/a-sky.html)
+    * [a-sphere](https://aframe.io/docs/1.5.0/primitives/a-sphere.html)
+    * [a-tetrahedron](https://aframe.io/docs/1.5.0/primitives/a-tetrahedron.html)
+    * [a-torus-knot](https://aframe.io/docs/1.5.0/primitives/a-torus-knot.html)
+    * [a-torus](https://aframe.io/docs/1.5.0/primitives/a-torus.html)
+    * [a-triangle](https://aframe.io/docs/1.5.0/primitives/a-triangle.html)
   * rotation
     * [rotation](https://aframe.io/docs/1.5.0/components/rotation.html)
   * position
@@ -193,7 +194,7 @@ The third skill I learned during this process is **Debugging**.
 Tinkering means to play around/mess around with the code, see what happens if I changed that part of the code. Tinkering is part of debugging. I tinkered in my IDE(cs50.dev).
 
 ## Summary
-In conclusion, I'm ready to use all my knowledge (HTML, CSS, Bootstrap, Bootstrap-Template, Wireframe, Aframe, etc) to make my Freedom Project website for my next step.
+In conclusion, I'm ready to use all my knowledge (HTML, CSS, Bootstrap, Bootstrap Template, Wireframe, Aframe, etc) to make my Freedom Project website for my next step.
 
 My Content: (https://github.com/nancyc0337/sep10-freedom-project/blob/main/prep/content.md)
 
