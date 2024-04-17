@@ -37,8 +37,9 @@
 * `#0437F2` --> ultramarine
 
 ## Fonts
-* [Gasoek One-Heading](https://fonts.google.com/specimen/Gasoek+One?preview.text=I%27m%20the%20best!)
-* [Montserrat-Paragraph](https://fonts.google.com/specimen/Montserrat?preview.text=I%27m%20the%20best!)
+Link: (https://fonts.google.com/selection)
+* Kanit-->Heading
+* Quicksand-->Paragraph
 
 ## Icons
 * [Icon: Music-Note-Beamed](https://icons.getbootstrap.com/icons/music-note-beamed/)
