@@ -10829,14 +10829,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 300 to 700
-
-.quicksand {
-  font-family: "Quicksand", sans-serif !important;
-  font-optical-sizing: auto !important;
-  font-weight: 400 !important;
-  font-style: normal !important;
+.quicksand-sand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 20px;
+  font-style: normal;
 }
 
 .kanit-extrabold {
@@ -10849,3 +10847,22 @@ img {
     vertical-align: middle;
 }
 
+.right {
+  float: right;
+}
+
+h1-a {
+  font-size: 85px;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.text-center2 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
