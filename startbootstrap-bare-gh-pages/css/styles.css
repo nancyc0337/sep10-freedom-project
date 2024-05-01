@@ -10853,6 +10853,8 @@ img {
 
 h1-a {
   font-size: 85px;
+  border: 2.5px solid #0437F2;
+  border-radius: 10px;
 }
 
 .responsive {
