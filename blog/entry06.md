@@ -7,22 +7,19 @@
 
 ## Engineering Design Process
 
-5) Create a prototype
-6) Test and evaluate the prototype
-7) Improve as needed
+Right now in the Engineering Design Process(EDP), I am on the 5th (Create a prototype), 6th (Test and evaluate the prototype) and 7th (Improve as needed) step. During this time, we created our Freedom Project website and we tested the prototype. Currently, we are improving our website to make it even better. We are going to edit any bugs, change any colors, etc.
 
 ## Skills
 
 1) Attention to detail
 
-The second skill I learned during this process is **Attention to detail**.
+The first skill I learned during this process is **Attention to detail**.
 
 The skill problem decomposition is about spelling things correctly, adhering to syntax rules, etc.
 
 2) Debugging
 
-The third skill I learned during this process is **Debugging**.
-
+The second skill I learned during this process is **Debugging**.
 
 
 ## Summary
