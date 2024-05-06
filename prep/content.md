@@ -112,7 +112,6 @@ Timeline:
   * Provides easy transition for who’s using DAWs & computer software
   * help complete beginners maneuver around and be able to make fully realized pieces of music
 
-
 ## Part B (“Possible Future Music Technologies”):
 1) AI Music Trainer
 
