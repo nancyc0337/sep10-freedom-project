@@ -4,6 +4,7 @@
 ## Content: MVP
 
 I made my MVP(Minimum Visible Product) by first downloading the [bare starter template](https://startbootstrap.com/template/bare), then I made each tab/page for my webpage. I put each HTML, CSS, content & responsive in each tab/page.
+
 ![alt text](image-3.png)
 
 One challenge I had is my css. I wanted my picture to be on the right and my text "Music" on the left. But the code I tried didn't work out so I decided to do it in a different way.
@@ -43,6 +44,17 @@ When I wanted to add a bootstrap components, I used Bootstrap-Components to add 
 ## Engineering Design Process
 
 Right now in the Engineering Design Process(EDP), I am on the 5th (Create a prototype), 6th (Test and evaluate the prototype) and 7th (Improve as needed) step. During this time, we created our Freedom Project website and we tested the prototype. Currently, we are improving our website to make it even better. We are going to edit any bugs, change any colors, etc.
+
+Codes:
+1) https://github.com/nancyc0337/sep10-freedom-project/blob/main/startbootstrap-bare-gh-pages/home.html
+
+2) https://github.com/nancyc0337/sep10-freedom-project/blob/main/startbootstrap-bare-gh-pages/software.html
+
+3) https://github.com/nancyc0337/sep10-freedom-project/blob/main/startbootstrap-bare-gh-pages/hardware.html
+
+4) https://github.com/nancyc0337/sep10-freedom-project/blob/main/startbootstrap-bare-gh-pages/ai-music-trainer.html
+
+5) https://github.com/nancyc0337/sep10-freedom-project/blob/main/startbootstrap-bare-gh-pages/music-watch.html
 
 ## Skills
 
