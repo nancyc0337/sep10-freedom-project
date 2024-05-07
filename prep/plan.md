@@ -86,11 +86,6 @@ Simran Sayeed:
 Most Important Change:
 - [] add more color
 
-<input type="checkbox">
-<label for="vehicle1">add more color</label><br>
-
 Second Important Change:
 - [x] bulleted list for AI Music Trainer
 
-<input type="checkbox">
-<label for="vehicle2">bulleted list for AI Music Trainer</label><br>
