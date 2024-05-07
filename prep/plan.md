@@ -79,3 +79,9 @@ Simran Sayeed:
 * I think for the AI music trainer part, the last part could be a bulleted list instead of separate divs.
 
 ![alt text](image-16.png)
+
+Most Important Change:
+- [] add more color
+
+Second Important Change:
+- [x] bulleted list for AI Music Trainer
