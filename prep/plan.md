@@ -74,6 +74,7 @@ April 24-27:
 April 28-30:
 * check for errors/edit any css
 
+#### Feedback for Beyond MVP
 Andre Pagan:
 * There could be a little bit of a wider range of color and contrast, too much blending of the same color that it is kind of difficult to see.
 
@@ -85,5 +86,11 @@ Simran Sayeed:
 Most Important Change:
 - [] add more color
 
+<input type="checkbox">
+<label for="vehicle1">add more color</label><br>
+
 Second Important Change:
 - [x] bulleted list for AI Music Trainer
+
+<input type="checkbox">
+<label for="vehicle2">bulleted list for AI Music Trainer</label><br>
