@@ -37,9 +37,8 @@
 * `#0437F2` --> ultramarine
 
 ## Fonts
-Link: (https://fonts.google.com/selection)
-* Kanit-->Heading
-* Quicksand-->Paragraph
+Link: (https://fonts.google.com/specimen/Quicksand?query=quicksand)
+* Quicksand
 
 ## Icons
 * [Icon: Music-Note-Beamed](https://icons.getbootstrap.com/icons/music-note-beamed/)
@@ -72,3 +71,11 @@ April 24-27:
 #### Beyond MVP
 April 28-30:
 * check for errors/edit any css
+
+Andre Pagan:
+* There could be a little bit of a wider range of color and contrast, too much blending of the same color that it is kind of difficult to see.
+
+Simran Sayeed:
+* I think for the AI music trainer part, the last part could be a bulleted list instead of separate divs.
+
+![alt text](image-16.png)

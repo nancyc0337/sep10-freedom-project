@@ -31,7 +31,7 @@ The takeaway I got is even though I didn't get what I want originally, I can do 
 
 ## Sources
 
-During this time, I used my IDE (cs50.dev) to put in my code for the freedom project website.
+During this time, I used my IDE (cs50.dev) to put in my code for the [freedom project website](https://legendary-couscous-q7qrqxprv5j7c9jvp-8080.app.github.dev/startbootstrap-bare-gh-pages/home.html).
 
 When I had trouble with my css, I used [CSS-W3Schools](https://www.w3schools.com/css/default.asp) to fix my bug in the code to get the response that I want.
 
@@ -56,6 +56,8 @@ Codes:
 
 5) https://github.com/nancyc0337/sep10-freedom-project/blob/main/startbootstrap-bare-gh-pages/music-watch.html
 
+[Website](https://legendary-couscous-q7qrqxprv5j7c9jvp-8080.app.github.dev/startbootstrap-bare-gh-pages/home.html)
+
 ## Skills
 
 1) Attention to detail
@@ -77,7 +79,7 @@ The third skill I learned during this process is **Problem Decomposition**
 The skill Problem Decomposition is about breaking a task down into smaller pieces. During this time, I break my problem(making the freedom project website) down into smaller pieces. I did each page of the website with each of the timeframe. I did the easy parts of the coding like copying the contents and replace them with HTML. I leave the hard parts like css & responsive till I'm finished with my HTML.
 
 ## Summary
-In conclusion, I'm ready to keep editing my Freedom Project website and getting ready to present my product to others.
+In conclusion, I'm ready to keep editing my [Freedom Project website](https://legendary-couscous-q7qrqxprv5j7c9jvp-8080.app.github.dev/startbootstrap-bare-gh-pages/home.html) and getting ready to present my product to others.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
