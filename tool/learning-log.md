@@ -10,7 +10,7 @@ Getting Started
 * [Youtube](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti) + [IDE](cs50.dev) + [Aframe.io](aframe.io)
   * Watched 5-7 minutes of this video: [Easily code a virtual reality web experience with A-Frame (WebVR)](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-1/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-1/index.html)
 
 * Created 3D shapes, change positions and color
 
@@ -43,7 +43,7 @@ Next Steps:
 * Finishing the [video](https://youtu.be/jhEfT9YjLcU?si=7MmcYtvEusZUHGti)
 * I tinkered in [cs50.dev](cs50.dev).
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-2/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-2/index.html)
 
 Next Steps:
 * Learn the component camera [(Click this Link)](https://aframe.io/docs/1.5.0/components/camera.html)
@@ -52,7 +52,7 @@ Next Steps:
 * Learn the component camera
   * [Youtube](https://www.youtube.com/watch?v=kygiaSx6kbM) + [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/components/camera.html#)
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-3/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-3/index.html)
 
 How do I make the 3D objects sit at the ground level?
 
@@ -69,7 +69,7 @@ Next Steps:
 * Use more 3D shapes
   * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-4/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-4/index.html)
 
 Note:
 * rotation="-90 0 0" --> makes the 3D shape horizontal
@@ -83,7 +83,7 @@ Note:
 * Learned to use rotation, position and color animations
   * [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/components/animation.html) + [Youtube](https://youtu.be/JDAdQV4YWRc?si=aFZdYRkCGUEhNHI5)
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-5/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-5/index.html)
 
 Next Steps:
 * Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
@@ -92,7 +92,7 @@ Next Steps:
 * Learn to [create a scene and add text](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY)
   * [Youtube](https://youtu.be/cHWO-nWWe5w?si=8s110b6XY4_BMSWY) + [IDE](cs50.dev) + [Aframe.io](https://aframe.io/docs/1.5.0/introduction/)
 
-Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-6/index.html)
+Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-6/index.html)
 
 How do I add text?
 
@@ -179,9 +179,9 @@ A-Frame components that I learned:
 
 My Tinkering:
 
-* 1st Link to my Tinkering(Code): [Click Here to See My Tinkering #1](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-7/index.html)
+* 1st Link to my Tinkering(Code): [Click Here to See My Tinkering #1](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-7/index.html)
 
-* 2nd Link to my Tinkering(Code): [Click Here to See My Tinkering #2](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering-8/index.html)
+* 2nd Link to my Tinkering(Code): [Click Here to See My Tinkering #2](https://github.com/nancyc0337/sep10-freedom-project/blob/main/tinkering/tinkering-8/index.html)
 
 What I Learned (From [Aframe.io - Lights](https://aframe.io/docs/1.5.0/components/light.html)):
 
@@ -207,7 +207,7 @@ Link to my Tinkering(Code): [Click Here to See My Tinkering](https://github.com/
 
 Code:
 * Reload the link --> the color of the floor will change each time
-* the light on the boxes will change 
+* the light on the boxes will change
 
 
 #### 4/4/2024:
