@@ -44,6 +44,7 @@ Link: (https://fonts.google.com/specimen/Quicksand?query=quicksand)
 
 ## Icons
 * [Icon: Music-Note-Beamed](https://icons.getbootstrap.com/icons/music-note-beamed/)
+* [Icon: Down Arrow](https://icons.getbootstrap.com/icons/arrow-down/)
 
 ## Timeline
 

@@ -41,6 +41,22 @@
         color: black;
         font-size: 18px;
       }
+      .quicksand-text2 {
+        font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+        font-size: 22px;
+      }
+      .quicksand-text3 {
+        font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+        font-size: 20px;
+      }
       html {
         background-color: #87CEEB;
       }
@@ -66,6 +82,9 @@
         margin: 45px 45px 45px 45px;
         padding: 10px 5px 10px 5px;
         text-align: left;
+      }
+      .color2 {
+        text-align: center;
       }
       .center {
         background-color: #FFB6C1;
@@ -96,22 +115,27 @@
       span1 {
         color: #0000FF;
       }
+      span2 {
+        text-decoration: underline;
+      }
+      span3 {
+        text-decoration: underline green 4px;
+      }
+      span4 {
+        text-decoration: underline blue 4px;
+      }
+      span5 {
+        text-decoration: underline red 4px;
+      }
+      span6 {
+        text-decoration: underline yellow 4px;
+      }
       .responsive {
         width: 100%;
         height: auto;
       }
       .left {
         text-align: left;
-      }
-      @media screen and (min-width: 601px) {
-        div.example {
-          font-size: 40px;
-        }
-      }
-      @media screen and (max-width: 600px) {
-        div.example {
-          font-size: 40px;
-        }
       }
       </style>
     <body>
@@ -182,10 +206,38 @@
         </div>
 
         <div class="color quicksand-text">
-          <a class="btn btn-primary" href="aframe-2.html" role="button">Music To Listen To</a>
+          <h4 class="quicksand-text3">Instructions</h4>
+        </div>
+
+        <div class="color quicksand-text">
+          <h3 class="quicksand-text">Use your <span2>mouse</span2> to click <span2>each colored box</span2>.</h3>
+          <p class="color2 quicksand-text2"><span3>Green Box</span3>: <span3>Play</span3> the <span6>Music</span6></p>
+          <p class="color2 quicksand-text2"><span4>Blue Box</span4>: <span4>Pause</span4> the <span6>Music</span6></p>
+          <p class="color2 quicksand-text2"><span5>Red Box</span5>: <span5>Stop</span5> the <span6>Music</span6></p>
+        </div>
+
+        <div class="color quicksand-text">
+          <a class="btn btn-primary" href="aframe-2.html" role="button">Music #1</a>
+          <a class="btn btn-primary" href="aframe-3.html" role="button">Music #2</a>
+          <a class="btn btn-primary" href="aframe-4.html" role="button">Music #3</a>
+          <a class="btn btn-primary" href="aframe-5.html" role="button">Music #4</a>
+          <a class="btn btn-primary" href="aframe-6.html" role="button">Music #5</a>
+          <a class="btn btn-primary" href="aframe-7.html" role="button">Music #6</a>
+          <a class="btn btn-primary" href="aframe-8.html" role="button">Music #7</a>
+          <a class="btn btn-primary" href="aframe-9.html" role="button">Music #8</a>
+          <a class="btn btn-primary" href="aframe-10.html" role="button">Music #9</a>
+          <a class="btn btn-primary" href="aframe-11.html" role="button">Music #10</a>
         </div>
 
         <span1><hr></span1>
+
+        <div class="color quicksand-text">
+          <h3 class="quicksand-text"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1"/>
+          </svg>Other Tabs In The Website<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1"/>
+          </svg></h3>
+        </div>
 
         <div class="color quicksand-text">
           <a class="btn btn-primary" href="index.html" role="button">Home & Context</a>

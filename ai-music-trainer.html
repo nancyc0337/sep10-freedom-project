@@ -43,6 +43,22 @@
         color: black;
         font-size: 18px;
       }
+      .quicksand-text2 {
+        font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+        font-size: 22px;
+      }
+      .quicksand-text3 {
+        font-family: "Quicksand", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+        font-size: 20px;
+      }
       html {
         background-color: #87CEEB;
       }
@@ -68,6 +84,9 @@
         margin: 45px 45px 45px 45px;
         padding: 10px 5px 10px 5px;
         text-align: left;
+      }
+      .color2 {
+        text-align: center;
       }
       .center {
         background-color: #FFB6C1;
@@ -98,22 +117,15 @@
       span1 {
         color: #0000FF;
       }
+      span2 {
+        text-decoration: underline;
+      }
       .responsive {
         width: 100%;
         height: auto;
       }
       .left {
         text-align: left;
-      }
-      @media screen and (min-width: 601px) {
-        div.example {
-          font-size: 40px;
-        }
-      }
-      @media screen and (max-width: 600px) {
-        div.example {
-          font-size: 40px;
-        }
       }
       </style>
     <body>
@@ -222,10 +234,26 @@
         </div>
 
         <div class="color quicksand-text">
+          <h4 class="quicksand-text3">Instructions</h4>
+        </div>
+
+        <div class="color quicksand-text">
+          <h3 class="color2 quicksand-text2">Use your <span2>arrow keys</span2> and <span2>mouse</span2> to experience the scene.</h3>
+        </div>
+
+        <div class="color quicksand-text">
           <a class="btn btn-primary" href="aframe-1.html" role="button">Welcome to Music!</a>
         </div>
 
         <span1><hr></span1>
+
+        <div class="color quicksand-text">
+          <h3 class="quicksand-text"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1"/>
+          </svg>Other Tabs In The Website<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1"/>
+          </svg></h3>
+        </div>
 
         <div class="color quicksand-text">
           <a class="btn btn-primary" href="index.html" role="button">Home & Context</a>

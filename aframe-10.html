@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Music Link #9</title>
+        <meta name="description" content="PAPERBALLOON" />
+        <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+        <script src="https://unpkg.com/aframe-animation-component@3.2.1/dist/aframe-animation-component.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
+    </head>
+    <body>
+      <script>
+        AFRAME.registerComponent("soundcontroller", {
+          init: function () {
+            let controlButton = this.el;
+            controlButton.addEventListener("click", function (ev) {
+              let method = ev.srcElement.id;
+
+              console.log(method);
+
+              let speaker = document.querySelector('#cylinder');
+
+              if(method == "play"){
+                speaker.components.sound.playSound();
+              }
+              if(method == "pause"){
+                speaker.components.sound.pauseSound();
+              }
+              if(method == "stop"){
+                speaker.components.sound.stopSound();
+              }
+    });
+   },
+  });
+      </script>
+      <a-scene>
+        <a-camera><a-cursor></a-cursor></a-camera>
+        <a-entity
+          id="plane"
+          geometry="primitive: plane; width: 10000; height: 10000"
+          material="color: #FFB6C1;"
+          rotation="-90 0 0"
+        ></a-entity>
+        <a-entity
+          id="cylinder"
+          geometry="primitive: cylinder; radius: 0.5; height: 1.5"
+          material="color: yellow;"
+          position="0 1.5 -3"
+          sound="src:Golden Days - Topher Mohr and Alex Elena.mp3; autoplay:true;"
+        ></a-entity>
+
+        <a-box
+          id="play"
+          color="green"
+          position="1 1 -2"
+          scale=" 0.3 0.3 0.3"
+               soundcontroller
+        ></a-box>
+        <a-box
+          id="pause"
+          color="blue"
+          position="0 1 -2"
+          scale=" 0.3 0.3 0.3"
+              soundcontroller
+        ></a-box>
+        <a-box
+          id="stop"
+          color="red"
+          position="-1 1 -2"
+          scale=" 0.3 0.3 0.3"
+               soundcontroller
+        ></a-box>
+      </a-scene>
+    </body>
+</html>
