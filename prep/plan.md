@@ -85,7 +85,7 @@ Simran Sayeed:
 ![alt text](image-16.png)
 
 Most Important Change:
-- [] add more color
+- [x] add more color
 
 Second Important Change:
 - [x] bulleted list for AI Music Trainer

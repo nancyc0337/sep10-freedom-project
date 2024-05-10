@@ -35,6 +35,9 @@ During this time, I used my IDE (cs50.dev) to put in my code for the [freedom pr
 
 When I had trouble with my css, I used [CSS-W3Schools](https://www.w3schools.com/css/default.asp) to fix my bug in the code to get the response that I want.
 
+1) [Responsive Text](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+2) [Responsive Image](https://www.w3schools.com/howto/howto_css_image_responsive.asp)
+
 When I wanted to add a bootstrap components, I used Bootstrap-Components to add bootstrap components that I need for my website.
 1) [Navbar](https://getbootstrap.com/docs/5.2/components/navbar/)
 2) [Accordion](https://getbootstrap.com/docs/5.2/components/accordion/)

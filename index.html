@@ -103,9 +103,16 @@ span1 {
 .left {
   text-align: left;
 }
-.two {
-  background-color: #CF9FFF;
-  color: #CF9FFF;
+@media screen and (min-width: 601px) {
+  div.example {
+    font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.example {
+    font-size: 40px;
+  }
 }
 </style>
     <body>
@@ -193,16 +200,13 @@ span1 {
           </button>
         </div>
 
-        <section class="two">
         <span1><hr></span1>
 
-        <div class="example">
         <div class="color quicksand-text">
           <p>Music is an arrangement of sounds that expresses ideas/emotions/messages in rhythm/melody/harmony/etc.</p>
         </div>
-        </div>
+
         <span1><hr></span1>
-        </section>
 
         <div class="example">
         <div class="color quicksand-text">
@@ -217,14 +221,14 @@ span1 {
         </div>
         </div>
 
-        <div class="example">
+
         <div class="color quicksand-text">
           <p>When they scrape rhythms and clapped their hands, they made music.</p>
           <img src="assets/img/hand.png" alt="Hands">
         </div>
         </div>
 
-        <section class="two">
+
         <span1><hr></span1>
 
         <div class="example">
@@ -234,16 +238,12 @@ span1 {
         </div>
 
         <span1><hr></span1>
-      </section>
 
-        <div class="example">
         <div class="color quicksand-text">
           <p>This website will look into the technologies of both in the past and future ones.</p>
           <img src="assets/img/past-future.png" alt="Time" class="responsive">
         </div>
-        </div>
 
-        <section class="two">
         <span1><hr></span1>
 
         <div class="color quicksand-text">
