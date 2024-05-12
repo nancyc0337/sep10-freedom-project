@@ -14,7 +14,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **M
 
 [Product]()
 
-[Website]()
+[Website](https://nancyc0337.github.io/sep10-freedom-project)
 
 [Presentation]()
 

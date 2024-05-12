@@ -25,8 +25,6 @@
 
 [Shades of Blue](https://htmlcolorcodes.com/colors/shades-of-blue/)
 
-[Shades of Green](https://htmlcolorcodes.com/colors/shades-of-green/)
-
 * `#000000` --> black
 * `#FFFFFF` --> white
 * `#89CFF0` --> baby blue
