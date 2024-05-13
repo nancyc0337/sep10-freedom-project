@@ -88,3 +88,8 @@ Most Important Change:
 Second Important Change:
 - [x] bulleted list for AI Music Trainer
 
+#### Beyond MVP Feedback
+
+1) make my images smaller (some of them are too big)
+
+2) add a little more content 
