@@ -90,4 +90,4 @@ Second Important Change:
 
 #### Beyond MVP Feedback
 
-1) make my images smaller (some of them are too big)
+- [x] make my images smaller (some of them are too big)
