@@ -29,6 +29,27 @@ The takeaway I got is even though I didn't get what I want originally, I can do 
 
 2. "There's many ways of doing something."
 
+Another challenge I had is my css. My images are really big. Most of them take like half of the website screen when the screen is extra large.
+
+Beginning:
+
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+I decided to ask Qilin(a student in 6th period SEP class). Thanks to her, I got the images smaller.
+
+code:
+```html
+style="width: #vw; margin: auto;"
+```
+
+After:
+
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+The takeaway I got is it's okay to ask for help.
+
 ## Sources
 
 During this time, I used my IDE (cs50.dev) to put in my code for the [freedom project website](https://nancyc0337.github.io/sep10-freedom-project).
