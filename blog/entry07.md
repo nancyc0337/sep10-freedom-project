@@ -1,8 +1,10 @@
-# Entry 7
-##### X/X/XX
+# Entry 7: Takeaways
+##### 5/31/2024
 
-Text
+![alt text](image-9.png)
 
-[Previous](entry06.md) | [Next](entry08.md)
+[Previous](entry06.md)
 
 [Home](../README.md)
+
+
