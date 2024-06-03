@@ -12,18 +12,49 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **M
 
 ## Links
 
-[Product]()
+[Link to my Codes (Product)](https://github.com/nancyc0337/sep10-freedom-project/tree/main)
 
-[Website](https://nancyc0337.github.io/sep10-freedom-project)
+[Link to my Preview of my Website](https://nancyc0337.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Link to my Presentation](https://docs.google.com/presentation/d/1cEArhy4DAlHtDC1AwvFKnwcfA8qq7H5n66q7qPGW6WM/edit#slide=id.p)
 
 ## Implications
 ##### PROS
-*
-##### CONS
-*
 
+Global:
+* increase of unity, brings people together
+
+Social:
+* help bring communities together
+* help people relax
+* help people express ourselves
+* help improve our well-being
+* raises our mood
+* gives us energy & motivation
+* inspires people
+
+Economic:
+* bring tourists
+* create jobs
+* creates music events
+  * music shows (for musicians to show their talents)
+  * music festivals
+* Technology helps enhance economic impact of music, especially in events
+
+##### CONS
+
+Global:
+* increase aggressive thoughts/encourage crime
+
+Social:
+* some music(violent) can lead to emotional & behavioral problems
+  * suicide
+  * sexual behaviors
+  * substance abuse
+* some music(violent) can increase depression or anxiety
+
+Economic:
+* greed of music industry executives lead to the downfall of modern music
 
 ## Blog
 Below you will find my blog about how I made my project.
@@ -35,6 +66,3 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
