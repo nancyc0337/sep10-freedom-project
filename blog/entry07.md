@@ -16,6 +16,8 @@ On May 24, my teacher (Mr. Mueller) taught my class about Elevator Pitch. Elevat
 9) demo
 10) questions
 
+We gave our elevator pitch on May 29. 
+
 ### In-class Presentations
 During 5/21-5/23 and 5/29-5/31, my classmates and I presented our projects in front of the class. I presented on 5/23/2024.
 
