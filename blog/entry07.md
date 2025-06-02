@@ -19,7 +19,7 @@ On May 24, my teacher (Mr. Mueller) taught my class about Elevator Pitch. Elevat
 ### In-class Presentations
 During 5/21-5/23 and 5/29-5/31, my classmates and I presented our projects in front of the class. I presented on 5/23/2024.
 
-My teacher (Mr. Mueller)'s cooment:
+My teacher (Mr. Mueller)'s comment:
 ![alt text](image-9.png)
 
 Takeaways:
@@ -62,7 +62,7 @@ The second skill I learned during this process is **Embracing failure**.
 Embracing failure is about rather than being discouraged by a bug or an error message, we love mistakes because they help us learn. When my class finished the in-class presentations, my teacher (Mr. Mueller) sent an email to each of us, containing grades and feedback. When I saw my feedback, I was a little discouraged because I didn't make too much eye contact. But this feedback helped me to learn a mistake. Next time/step, I will take note and make eye contact with the entire audience.
 
 ## Summary
-In conclusion, I'm proud of the amount of work I have put into my Freedom Project. I'm happy to learn SEP 10 with Mr. Mueller and my friends. I'd love to learn more SEP with Mr. Mueller. 
+In conclusion, I'm proud of the amount of work I have put into my Freedom Project. I'm happy to learn SEP 10 with Mr. Mueller and my friends. I'd love to learn more SEP with Mr. Mueller.
 
 [Previous](entry06.md)
 
