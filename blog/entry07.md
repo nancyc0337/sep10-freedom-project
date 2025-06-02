@@ -20,6 +20,7 @@ On May 24, my teacher (Mr. Mueller) taught my class about Elevator Pitch. Elevat
 During 5/21-5/23 and 5/29-5/31, my classmates and I presented our projects in front of the class. I presented on 5/23/2024.
 
 My teacher (Mr. Mueller)'s comment:
+
 ![alt text](image-9.png)
 
 Takeaways:
@@ -32,7 +33,9 @@ the skill `communication` and `embracing failure/mistakes`. During my SEP Expo a
 These are my sources (Picture of my elevator pitch & Link to my presentation):
 
 My Elevator Pitch:
+
 ![alt text](image-10.png)
+
 ![alt text](image-11.png)
 
 My Slides: [My Link to My Freedom Project Presentation](https://docs.google.com/presentation/d/1cEArhy4DAlHtDC1AwvFKnwcfA8qq7H5n66q7qPGW6WM/edit#slide=id.g2de46a2a3ca_0_113)
@@ -42,7 +45,9 @@ My Slides: [My Link to My Freedom Project Presentation](https://docs.google.com/
 Right now in the Engineering Design Process(EDP), I am on the 8th (Communicate the results) step. We presented our SEP Freedom Projects to our classmates, teachers, judges, etc.
 
 My Elevator Pitch:
+
 ![alt text](image-10.png)
+
 ![alt text](image-11.png)
 
 My Slides: [My Link to My Freedom Project Presentation](https://docs.google.com/presentation/d/1cEArhy4DAlHtDC1AwvFKnwcfA8qq7H5n66q7qPGW6WM/edit#slide=id.g2de46a2a3ca_0_113)
